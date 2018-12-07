@@ -12,12 +12,59 @@ namespace EFEntityTest
     {
         static void Main(string[] args)
         {
-            DBFactory.Instance.CreateDBContext();
-            //TestAddSameEntity();
-            //TestcatchError();
+            try
+            {
+                DBFactory.Instance.CreateDBContext();
+                Console.WriteLine("数据库初始化成功\n");
+            L1:
+                {
+                    var res = MyTestService.Instance.FindAll();
+                    Console.WriteLine("查询到" + res.Count + "条记录\n");
+                    Console.WriteLine("1、添加一条记录 2、清空所有记录 \n");
+                    var key = Console.ReadKey();
+                    if (key.KeyChar == '1')
+                    {
+                        var entity = new MyTestModel() { Name = "zhangyuan", Age = "26" };
+                        var addres = MyTestService.Instance.AddOne(entity);
+                        if (addres != 0)
+                        {
+                            Console.WriteLine("添加成功！\n");
+                            goto L1;
+                        }
+                    }
+                    else if (key.KeyChar == '2')
+                    {
+                        var all = MyTestService.Instance.FindAll();
+                        foreach (var item in all)
+                        {
+                            MyTestService.Instance.Delete(item);
+                        }
+                        Console.WriteLine("删除成功！\n");
+                        goto L1;
+                    }
+                    //else if (key.KeyChar == '3')
+                    //{
+                    //    goto L1;
+                    //}
+                }
+               
+                
+                
+
+
+                //TestAddSameEntity();
+                //TestcatchError();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("出现异常："+e.Message);
+            }
+            
+            
             Console.ReadKey();
 
         }
+        
         /// <summary>
         /// 测试重复添加实体
         /// </summary>

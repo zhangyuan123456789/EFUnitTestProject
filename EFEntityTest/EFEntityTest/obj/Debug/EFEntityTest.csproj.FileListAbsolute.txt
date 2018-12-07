@@ -82,5 +82,9 @@ C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\bin\Deb
 C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\bin\Debug\System.Collections.Immutable.xml
 C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\bin\Debug\System.Interactive.Async.xml
-C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\obj\Debug\EFEntityTest.csprojResolveAssemblyReference.cache
-C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\obj\Debug\EFEntityTest.csproj.EFEntityTest.exe.config
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\obj\Debug\EFEntityTest.csprojAssemblyReference.cache
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\obj\Debug\EFEntityTest.exe.config
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\obj\Debug\EFEntityTest.csproj.CoreCompileInputs.cache
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\obj\Debug\EFEntityTest.csproj.CopyComplete
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\EFEntityTest\bin\Debug\Microsoft.Extensions.Primitives.xml

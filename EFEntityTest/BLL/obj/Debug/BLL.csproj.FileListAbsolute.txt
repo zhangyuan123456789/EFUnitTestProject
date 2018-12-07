@@ -65,6 +65,8 @@ C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\BLL\bin\Debug\Micros
 C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\BLL\bin\Debug\Microsoft.Extensions.Options.xml
 C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\BLL\bin\Debug\Remotion.Linq.xml
 C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\BLL\bin\Debug\System.Interactive.Async.xml
-C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\BLL\obj\Debug\BLL.dll
 C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\BLL\obj\Debug\BLL.pdb
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\BLL\obj\Debug\BLL.csproj.CopyComplete

@@ -3,3 +3,9 @@ C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Common\bin\Debug\Common.p
 C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
 C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Common\obj\Debug\Common.dll
 C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Common\obj\Debug\Common.pdb
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\Common\bin\Debug\Common.dll
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\Common\bin\Debug\Common.pdb
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\Common\obj\Debug\Common.dll
+C:\Users\CNZHYUA3\MyProjects\EFUnitTestProject\EFEntityTest\Common\obj\Debug\Common.pdb
