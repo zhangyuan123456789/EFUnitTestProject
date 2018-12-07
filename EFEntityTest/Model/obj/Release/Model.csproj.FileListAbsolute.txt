@@ -1,0 +1,9 @@
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Model\bin\Release\Model.dll
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Model\bin\Release\Model.pdb
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Model\bin\Release\Common.dll
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Model\bin\Release\Common.pdb
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Model\obj\Release\Model.csprojAssemblyReference.cache
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Model\obj\Release\Model.csproj.CoreCompileInputs.cache
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Model\obj\Release\Model.csproj.CopyComplete
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Model\obj\Release\Model.dll
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Model\obj\Release\Model.pdb

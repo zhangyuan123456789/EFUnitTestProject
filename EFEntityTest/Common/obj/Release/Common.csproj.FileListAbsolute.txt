@@ -1,0 +1,6 @@
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Common\bin\Release\Common.dll
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Common\bin\Release\Common.pdb
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Common\obj\Release\Common.csprojAssemblyReference.cache
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Common\obj\Release\Common.dll
+C:\Users\CNZHYUA3\MyProjects\EFEntityTEST\EFEntityTest\Common\obj\Release\Common.pdb
